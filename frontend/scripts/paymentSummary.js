@@ -1,5 +1,5 @@
 import { cartItems } from "./cart.js";
-import { getProduct } from "../model/menu0ptions.js"; // Fixed typo in filename
+import { getProduct } from "../../backend/model/menu0ptions.js"; // Fixed typo in filename
 
 export function updatePaymentSummary() {
     const itemCount = cartItems.length;
