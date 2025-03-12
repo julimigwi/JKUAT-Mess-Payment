@@ -33,3 +33,4 @@ function initMenu() {
 
   updateCartDisplay();
 }
+

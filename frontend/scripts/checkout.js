@@ -1,6 +1,6 @@
 // checkout.js
 import { cartItems, removeFromCart, updateCartDisplay } from "./cart.js";
-import { menuItems } from "../model/menu0ptions.js";
+import { menuItems } from "../../model/menu0ptions.js";
 import { updatePaymentSummary } from "./paymentSummary.js";
 
 
